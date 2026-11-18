@@ -17,9 +17,9 @@
 
 ## 🌐 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARAN-AI05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-maharana-447860402/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com//](https://www.instagram.com/_undifferentiable_karan/))
 
 ## 💻 Tech Stack:
 
@@ -42,7 +42,7 @@
 
 ## 🏆 GitHub Trophies:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KARAN-AI05&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
